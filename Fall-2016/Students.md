@@ -11,7 +11,7 @@
 | Jesus Marco ll A. del Carmen  |   	[jmdelcarmen](https://github.com/jmdelcarmen)  	|	 [jmdcarmen_resume](https://github.com/jmdelcarmen/boot_warmup) |[jmdcarmen](http://79.170.40.178/jmdcwebdev.co.uk/)	|
 | Joshua Garza									|[Joshmcallen](https://github.com/Joshmcallen)				|[jgarza_resume](https://github.com/Joshmcallen/boot_warmup/blob/master/week02/resume.md)																						| 																	|
 | Silvia Ramirez								|[slyram69](https://github.com/slyram69)|																						| 																	|
-| Marco Barrientos							|										|																						| 																	|
+| Marco Barrientos							|[coding-at-3am](https://github.com/coding-at-3am)|																				| 																	|
 | Laura Morfin									|https://github.com/LauraMorfin										|																						| 																	|
 | Casey Cantu										|										|																						| 																	|
 | José Adrian Cantu	             [jacantu](https://github.com/jacantu)						
